@@ -1,4 +1,4 @@
-# This page is for Java
+# Java
 
 Java is an object oriented programming language.
 
