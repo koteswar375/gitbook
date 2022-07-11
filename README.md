@@ -1,11 +1,5 @@
 # Read Me
 
-This space is the source of truth or collection of knowledge resources of different programming languages. I intend to document everything about a programming language here&#x20;
+This space is for the collection of my learnings, cheatsheets, knowledge resources of all topics, programming languages, tools, libraries and many related to Computer Science and Software Engineering. 
 
-* Installation
-* Features
-* Compilers
-* Learning resources
-* Books
-* Advanced topics
 
