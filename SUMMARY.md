@@ -12,3 +12,7 @@
 ## Object Oriented Design
 
 * [Design patterns](object-oriented-design/design-patterns.md)
+
+## Group 1
+
+* [Mac OS](group-1/mac-os.md)
