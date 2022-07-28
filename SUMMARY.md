@@ -13,6 +13,7 @@
 
 * [Design patterns](object-oriented-design/design-patterns.md)
 
-## Group 1
+## Cheatsheets
 
-* [Mac OS](group-1/mac-os.md)
+* [Mac OS](cheatsheets/mac-os.md)
+* [IntelliJ](cheatsheets/intellij.md)
